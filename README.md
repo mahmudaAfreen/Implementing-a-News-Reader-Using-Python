@@ -1,5 +1,5 @@
 
-[NLTK](<img width="684" alt="NLTK" src="https://github.com/mahmudaAfreen/Implementing-a-News-Reader-using-Python/assets/36468927/f47b162d-22fe-428f-b5c3-d410d1471bac">)
+![NLTK](<img width="684" alt="NLTK" src="https://github.com/mahmudaAfreen/Implementing-a-News-Reader-using-Python/assets/36468927/f47b162d-22fe-428f-b5c3-d410d1471bac">)
 
 
 # Implementing-a-News-Reader-using-Python
